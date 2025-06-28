@@ -65,7 +65,6 @@ _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik s
 ```
 
 📁 Assets
-├── Audio         # Sound FX: tembak, ledakan, dll.
 ├── Fonts         # Font khusus untuk UI
 ├── Prefabs       # Objek siap pakai: musuh, peluru, asteroid
 ├── Scenes        # MainMenu, Gameplay, GameOver
@@ -94,10 +93,10 @@ Bebas dimodifikasi dan digunakan kembali dengan mencantumkan nama pengembang asl
 | Nama Lengkap                          | NIM         | Peran                     |
 |---------------------------------------|-------------|----------------------------|
 | **Muhammad Hafizh Wijdan**            | 202431005   | Lead Programmer            |
-| **Nurul Annisa Assyarifah**           | 202431005   | Storyboard                 |
-| **Muhammad Ikram Hilmi**              | 202431005   | Flowchart                  |
-| **Gary Patar Immanuel Silaban**       | 202431005   | Design PowerPoint          |
-| **Muhammad Afdhal Mukti**             | 202431005   | Flowchart                  |
+| **Nurul Annisa Assyarifah**           | 202431022   | Storyboard                 |
+| **Muhammad Ikram Hilmi**              | 202431028   | Flowchart                  |
+| **Gary Patar Immanuel Silaban**       | 202431165   | Design PowerPoint          |
+| **Muhammad Afdhal Mukti**             | 202431010   | Flowchart                  |
 
 ---
 
