@@ -1,3 +1,7 @@
+Berikut isi lengkap file `README.md` yang sudah saya buat, langsung bisa kamu salin dan tempel ke repositori GitHub kamu:
+
+---
+
 ````markdown
 # 🚀 Zetta Tronian
 
@@ -93,8 +97,11 @@ Proyek Akhir Mata Kuliah Multimedia
 
 ---
 
-> 🚀 Selamat bermain Zetta Tronian 
+> 🚀 Selamat bermain Zetta Tronian dan semoga sukses di ujian akhir!
 
 ```
 
+---
 
+Jika kamu ingin saya bantu menambahkan cuplikan screenshot, GIF animasi, atau logo game, tinggal kirim filenya saja ke sini. Siap bantu lanjut! 💪
+```
