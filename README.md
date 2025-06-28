@@ -1,8 +1,3 @@
-Berikut isi lengkap file `README.md` yang sudah saya buat, langsung bisa kamu salin dan tempel ke repositori GitHub kamu:
-
----
-
-````markdown
 # 🚀 Zetta Tronian
 
 _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik seperti game **Platypus**, dikembangkan sebagai **projek akhir mata kuliah Multimedia di ITPLN**. Pemain mengendalikan pesawat luar angkasa untuk menghancurkan asteroid dan musuh yang datang dari sisi kanan layar. Game ini memiliki sistem wave, skor, peluru upgrade otomatis, dan UI futuristik.
@@ -21,7 +16,7 @@ _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik s
   Efek suara disematkan pada tembakan, tabrakan, dan ledakan untuk menambah imersi arcade.
 
 - 🎮 **Kontrol Sederhana dan Responsif**  
-  Kontrol game menggunakan **WASD atau tombol panah** untuk gerakan dan **Spasi atau Klik Kiri** untuk menembak.
+  Kontrol game menggunakan **Mouse** untuk gerakan dan **Klik Kiri** untuk menembak.
 
 - 🧠 **Sistem Skor dan Game Over**  
   Skor bertambah saat pemain menghancurkan musuh atau asteroid. Game akan berakhir saat pemain terkena musuh atau asteroid.
@@ -51,57 +46,62 @@ _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik s
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/zettatronian.git
-````
+2. Buka folder proyek melalui Unity Hub.  
+3. Arahkan ke scene `Assets/Scenes/MainMenu.unity`.  
+4. Tekan tombol **Play** di editor.
 
-2. Buka Unity Hub dan buka folder project.
-3. Buka scene `Assets/Scenes/MainMenu.unity`.
-4. Klik tombol **Play** di Unity.
+### 💻 Opsi 2: Jalankan Lewat File Build
 
-### 💻 Opsi 2: Jalankan Lewat Build
+1. Buka folder `Build/` .  
+2. Jalankan file `My Project.exe`.  
+3. Game akan langsung dimulai dari Main Menu.
 
-1. Masuk ke folder `Build/`.
-2. Jalankan file `.exe` (untuk Windows).
+> 💡 Direkomendasikan untuk memainkan game dalam resolusi layar penuh (fullscreen) untuk pengalaman maksimal.
 
 ---
 
-## 📁 Struktur Proyek
+## 📁 Struktur Folder Utama
 
 ```
+
 📁 Assets
-├── Audio              # Efek suara
-├── Fonts              # Font UI
-├── Prefabs            # Objek prefab: player, musuh, peluru
-├── Scenes             # MainMenu, Gameplay, GameOver
-├── Scripts            # Player, Enemy, Bullet, Manager, dll.
-├── Sprites            # Gambar pesawat, asteroid, musuh
-└── UI                 # Tampilan antarmuka pengguna
+├── Audio         # Sound FX: tembak, ledakan, dll.
+├── Fonts         # Font khusus untuk UI
+├── Prefabs       # Objek siap pakai: musuh, peluru, asteroid
+├── Scenes        # MainMenu, Gameplay, GameOver
+├── Scripts       # Skrip modular (Player, Bullet, Enemy, Manager)
+├── Sprites       # Gambar: pesawat, latar, objek luar angkasa
+└── UI            # Panel, tombol, teks UI
+
 📁 ProjectSettings
 📁 Packages
 .gitignore
 README.md
+
 ```
 
 ---
 
 ## 📜 Lisensi
 
-Proyek ini dibuat untuk tujuan pembelajaran dan akademik. Bebas digunakan dan dimodifikasi dengan menyertakan kredit kepada pengembang.
+Proyek ini dibuat untuk keperluan akademik dan pembelajaran.  
+Bebas dimodifikasi dan digunakan kembali dengan mencantumkan nama pengembang asli.
 
 ---
 
-## 🙋‍♂️ Pengembang
+## 👥 Anggota Tim Pengembang
 
-**Hafizh Wijdan**
-Mahasiswa ITPLN
-Proyek Akhir Mata Kuliah Multimedia
-
----
-
-> 🚀 Selamat bermain Zetta Tronian dan semoga sukses di ujian akhir!
-
-```
+| Nama Lengkap                          | NIM         | Peran                     |
+|---------------------------------------|-------------|----------------------------|
+| **Muhammad Hafizh Wijdan**            | 202431005   | Lead Programmer            |
+| **Nurul Annisa Assyarifah**           | 202431005   | Storyboard                 |
+| **Muhammad Ikram Hilmi**              | 202431005   | Flowchart                  |
+| **Gary Patar Immanuel Silaban**       | 202431005   | Design PowerPoint          |
+| **Muhammad Afdhal Mukti**             | 202431005   | Flowchart                  |
 
 ---
 
-Jika kamu ingin saya bantu menambahkan cuplikan screenshot, GIF animasi, atau logo game, tinggal kirim filenya saja ke sini. Siap bantu lanjut! 💪
-```
+> 🚀 Terima kasih telah memainkan **Zetta Tronian**!
+
+---
+
