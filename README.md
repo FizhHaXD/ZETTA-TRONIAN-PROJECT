@@ -1,3 +1,8 @@
+Berikut isi lengkap file `README.md` yang sudah saya buat, langsung bisa kamu salin dan tempel ke repositori GitHub kamu:
+
+---
+
+````markdown
 # 🚀 Zetta Tronian
 
 _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik seperti game **Platypus**, dikembangkan sebagai **projek akhir mata kuliah Multimedia di ITPLN**. Pemain mengendalikan pesawat luar angkasa untuk menghancurkan asteroid dan musuh yang datang dari sisi kanan layar. Game ini memiliki sistem wave, skor, peluru upgrade otomatis, dan UI futuristik.
@@ -92,5 +97,8 @@ Proyek Akhir Mata Kuliah Multimedia
 
 ---
 
-> 🚀 Selamat bermain Zetta Tronian !!!
+> 🚀 Selamat bermain Zetta Tronian 
+
 ```
+
+
