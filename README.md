@@ -1,7 +1,3 @@
-Berikut isi lengkap file `README.md` yang sudah saya buat, langsung bisa kamu salin dan tempel ke repositori GitHub kamu:
-
----
-
 ````markdown
 # 🚀 Zetta Tronian
 
