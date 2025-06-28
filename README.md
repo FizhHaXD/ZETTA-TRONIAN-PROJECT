@@ -64,18 +64,34 @@ _Zetta Tronian_ adalah sebuah game **horizontal space shooter** bergaya klasik s
 
 ```
 
-📁 Assets
-├── Fonts         # Font khusus untuk UI
-├── Prefabs       # Objek siap pakai: musuh, peluru, asteroid
-├── Scenes        # MainMenu, Gameplay, GameOver
-├── Scripts       # Skrip modular (Player, Bullet, Enemy, Manager)
-├── Sprites       # Gambar: pesawat, latar, objek luar angkasa
-└── UI            # Panel, tombol, teks UI
-
-📁 ProjectSettings
-📁 Packages
-.gitignore
-README.md
+ZETTA-TRONIAN-PROJECT/
+│
+├── .vscode/
+│
+├── Assets/
+│   ├── Scenes/
+│   │   ├── MainGame.unity
+│   │   ├── MainGame.unity.meta
+│   │   ├── main menu.unity
+│   │   └── main menu.unity.meta
+│   │
+│   ├── Settings/
+│   ├── Space Shooter Assets/
+│   ├── TextMesh Pro/
+│   ├── code/
+│   └── prefabs/
+│
+├── Packages/
+├── ProjectSettings/
+│
+├── PPT/
+│   └── Kelompok2_ZettaTronian_UAS_SisMul_Muhammad Hafizh Wijdan_A_.pptx
+│
+├── dragon2017/
+│   └── My project.exe
+│
+├── .gitignore
+└── README.md
 
 ```
 
