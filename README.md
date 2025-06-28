@@ -92,11 +92,5 @@ Proyek Akhir Mata Kuliah Multimedia
 
 ---
 
-> 🚀 Selamat bermain Zetta Tronian dan semoga sukses di ujian akhir!
-
-```
-
----
-
-Jika kamu ingin saya bantu menambahkan cuplikan screenshot, GIF animasi, atau logo game, tinggal kirim filenya saja ke sini. Siap bantu lanjut! 💪
+> 🚀 Selamat bermain Zetta Tronian !!!
 ```
