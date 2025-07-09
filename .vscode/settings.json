@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ZETTA-TRONIAN-PROJECT.sln"
+    "dotnet.defaultSolution": "My project.sln"
 }

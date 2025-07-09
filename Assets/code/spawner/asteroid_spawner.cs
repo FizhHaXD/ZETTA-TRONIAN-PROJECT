@@ -34,7 +34,7 @@ public class AsteroidSpawner : MonoBehaviour
     void Start()
     {
         // Mulai spawn pertama kali setelah 60 detik (bisa dianggap "fase tenang")
-        nextSpawnTime = Time.time + 60f;
+        nextSpawnTime = Time.time + 15f;
         // ↑ Time.time adalah built-in Unity → waktu sejak game dimulai (dalam detik)
     }
 

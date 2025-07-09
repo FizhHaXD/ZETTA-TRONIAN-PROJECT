@@ -19,8 +19,8 @@ public class pesawat : MonoBehaviour
     public int maxHP = 3;                  // Jumlah maksimal nyawa
     private int currentHP;                 // Nyawa saat ini (private → internal)
 
-    public float invincibilityDuration = 1f; // Durasi kebal setelah terkena hit (belum digunakan aktif)
-    private bool isInvincible = false;       // Apakah pesawat sedang kebal?
+    // public float invincibilityDuration = 1f; // Durasi kebal setelah terkena hit (belum digunakan aktif)
+    // private bool isInvincible = false;       // Apakah pesawat sedang kebal?
 
     public HeartSpriteManager heartUI;       // Referensi ke UI nyawa (pakai sprite hati)
 
@@ -51,7 +51,7 @@ public class pesawat : MonoBehaviour
     // === Fungsi buatan sendiri: mengurangi nyawa dan mengecek kematian ===
     public void TakeDamage(int amount)
     {
-        if (isInvincible) return; // Jika kebal, abaikan damage
+        // if (isInvincible) return; // Jika kebal, abaikan damage
 
         currentHP -= amount;
         Debug.Log("Pesawat kena! Sisa HP: " + currentHP);
